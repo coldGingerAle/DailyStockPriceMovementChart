@@ -1,0 +1,11 @@
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\bin\Debug\YahooTestTwo.exe.config
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\bin\Debug\YahooTestTwo.exe
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\bin\Debug\YahooTestTwo.pdb
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\bin\Debug\Newtonsoft.Json.dll
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\bin\Debug\Newtonsoft.Json.xml
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\obj\Debug\YahooTestTwo.csprojResolveAssemblyReference.cache
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\obj\Debug\YahooTestTwo.Properties.Resources.resources
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\obj\Debug\YahooTestTwo.csproj.GenerateResource.Cache
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\obj\Debug\YahooTestTwo.exe
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\obj\Debug\YahooTestTwo.pdb
+C:\Users\Hui\Documents\Visual Studio 2017\Projects\YahooTestTwo\YahooTestTwo\obj\Debug\DailyStockPriceMovementChart.Form1.resources

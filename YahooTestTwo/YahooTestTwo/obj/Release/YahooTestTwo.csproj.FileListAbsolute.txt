@@ -1,0 +1,10 @@
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\bin\Release\YahooTestTwo.exe.config
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\bin\Release\YahooTestTwo.exe
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\bin\Release\YahooTestTwo.pdb
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\bin\Release\Newtonsoft.Json.dll
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\bin\Release\Newtonsoft.Json.xml
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\obj\Release\YahooTestTwo.Form1.resources
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\obj\Release\YahooTestTwo.Properties.Resources.resources
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\obj\Release\YahooTestTwo.csproj.GenerateResource.Cache
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\obj\Release\YahooTestTwo.exe
+c:\users\hui\documents\visual studio 2017\Projects\YahooTestTwo\YahooTestTwo\obj\Release\YahooTestTwo.pdb
